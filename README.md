@@ -51,7 +51,7 @@ def cria_word_docx():
     # Salvar o documento
     doc.save("./tabela_criada.docx")
 ```
-*Usando biblioteca odfpy
+* Usando biblioteca odfpy
 
 https://pypi.org/project/odfpy/
 
